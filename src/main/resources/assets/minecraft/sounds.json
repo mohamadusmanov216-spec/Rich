@@ -1,0 +1,199 @@
+{
+  "gui_open": {
+    "sounds": [
+      "minecraft:gui_open"
+    ]
+  },
+  "gui_close": {
+    "sounds": [
+      "minecraft:gui_close"
+    ]
+  },
+  "module_enable": {
+    "sounds": [
+      "minecraft:module_enable"
+    ]
+  },
+  "module_disable": {
+    "sounds": [
+      "minecraft:module_disable"
+    ]
+  },
+  "category_click": {
+    "sounds": [
+      "minecraft:guicategory_select"
+    ]
+  },
+  "guicategory_select": {
+    "sounds": [
+      "minecraft:guicategory_select"
+    ]
+  },
+  "accountswitch": {
+    "sounds": [
+      "minecraft:accountswitch"
+    ]
+  },
+  "accountswith": {
+    "sounds": [
+      "minecraft:accountswitch"
+    ]
+  },
+  "kolokolnia_kill": {
+    "sounds": [
+      "minecraft:kolokolnia_kill"
+    ]
+  },
+  "hit_bonk": {
+    "sounds": [
+      {
+        "name": "minecraft:hitsounds/bonk",
+        "volume": 1.45
+      }
+    ]
+  },
+  "hit_bring": {
+    "sounds": [
+      {
+        "name": "minecraft:hitsounds/bring",
+        "volume": 1.45
+      }
+    ]
+  },
+  "hit_magic_squash": {
+    "sounds": [
+      {
+        "name": "minecraft:hitsounds/magic_squash",
+        "volume": 1.45
+      }
+    ]
+  },
+  "hit_meow": {
+    "sounds": [
+      {
+        "name": "minecraft:hitsounds/meow",
+        "volume": 1.5
+      }
+    ]
+  },
+  "hit_nya": {
+    "sounds": [
+      {
+        "name": "minecraft:hitsounds/nya",
+        "volume": 1.5
+      }
+    ]
+  },
+  "hit_pop": {
+    "sounds": [
+      {
+        "name": "minecraft:hitsounds/pop",
+        "volume": 1.5
+      }
+    ]
+  },
+  "hit_soft": {
+    "sounds": [
+      {
+        "name": "minecraft:hitsounds/soft",
+        "volume": 1.45
+      }
+    ]
+  },
+  "hit_squash": {
+    "sounds": [
+      {
+        "name": "minecraft:hitsounds/squash",
+        "volume": 1.45
+      }
+    ]
+  },
+  "hit_uwu": {
+    "sounds": [
+      {
+        "name": "minecraft:hitsounds/uwu",
+        "volume": 1.5
+      }
+    ]
+  },
+  "hit_boykisser": {
+    "sounds": [
+      {
+        "name": "minecraft:hitsounds/boykisser/boykisser-1",
+        "volume": 1.45
+      },
+      {
+        "name": "minecraft:hitsounds/boykisser/boykisser-2",
+        "volume": 1.45
+      },
+      {
+        "name": "minecraft:hitsounds/boykisser/boykisser-3",
+        "volume": 1.45
+      },
+      {
+        "name": "minecraft:hitsounds/boykisser/boykisser-4",
+        "volume": 1.45
+      },
+      {
+        "name": "minecraft:hitsounds/boykisser/boykisser-5",
+        "volume": 1.45
+      },
+      {
+        "name": "minecraft:hitsounds/boykisser/boykisser-6",
+        "volume": 1.45
+      }
+    ]
+  },
+  "hit_click": {
+    "sounds": [
+      {
+        "name": "minecraft:hitsounds/click/click-1",
+        "volume": 1.45
+      },
+      {
+        "name": "minecraft:hitsounds/click/click-2",
+        "volume": 1.45
+      },
+      {
+        "name": "minecraft:hitsounds/click/click-3",
+        "volume": 1.45
+      }
+    ]
+  },
+  "hit_glass": {
+    "sounds": [
+      {
+        "name": "minecraft:hitsounds/glass/glass-1",
+        "volume": 1.55
+      },
+      {
+        "name": "minecraft:hitsounds/glass/glass-2",
+        "volume": 1.55
+      },
+      {
+        "name": "minecraft:hitsounds/glass/glass-3",
+        "volume": 1.55
+      }
+    ]
+  },
+  "hit_moan": {
+    "sounds": [
+      {
+        "name": "minecraft:hitsounds/moan/moan-1",
+        "volume": 1.95
+      },
+      {
+        "name": "minecraft:hitsounds/moan/moan-2",
+        "volume": 1.95
+      },
+      {
+        "name": "minecraft:hitsounds/moan/moan-3",
+        "volume": 1.95
+      },
+      {
+        "name": "minecraft:hitsounds/moan/moan-4",
+        "volume": 1.95
+      }
+    ]
+  }
+}
